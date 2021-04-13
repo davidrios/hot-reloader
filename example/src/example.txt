@@ -1,0 +1,1 @@
+I am the contents from the example.txt file, nice to meet you!

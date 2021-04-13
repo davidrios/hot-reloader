@@ -1,0 +1,32 @@
+{
+  "name": "hot-reloader",
+  "version": "1.0.0",
+  "description": "Webpack loader to support HMR with any other loader",
+  "main": "index.js",
+  "engines": {
+    "node": ">= 12.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidrios/hot-reloader.git"
+  },
+  "peerDependencies": {
+    "webpack": "^4.0.0 || ^5.0.0"
+  },
+  "dependencies": {
+    "loader-utils": "^2.0.0"
+  },
+  "keywords": [
+    "webpack",
+    "hmr"
+  ],
+  "author": "David Rios <david.rios.gomes@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davidrios/hot-reloader/issues"
+  },
+  "homepage": "https://github.com/davidrios/hot-reloader#readme"
+}
