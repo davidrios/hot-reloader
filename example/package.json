@@ -7,7 +7,7 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "hot-reloader": "^1.0.0",
+    "@davidrios/hot-reloader": "^1.0.0",
     "html-webpack-plugin": "^4.5.2",
     "raw-loader": "^4.0.2",
     "webpack": "^4.46.0",

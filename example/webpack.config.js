@@ -14,7 +14,7 @@ const config = {
       {
         test: /\.txt$/i,
         use: [
-          'hot-reloader',
+          '@davidrios/hot-reloader',
           'raw-loader'
         ]
       }
