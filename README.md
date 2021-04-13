@@ -36,7 +36,7 @@ module.exports = {
       {
         test: /\.txt$/i,
         use: [
-          'hot-reloader',
+          '@davidrios/hot-reloader',
           'raw-loader'
         ]
       },

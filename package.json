@@ -1,6 +1,6 @@
 {
   "name": "@davidrios/hot-reloader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Webpack loader to support HMR with any other loader",
   "main": "index.js",
   "engines": {
